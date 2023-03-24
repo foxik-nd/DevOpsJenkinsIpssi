@@ -1,5 +1,5 @@
 <?php
-printf("false");
+printf("true");
 
 ?>
 
